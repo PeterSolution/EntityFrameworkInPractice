@@ -1,0 +1,17 @@
+﻿<Window x:Class="dod.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:dod"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <RadioButton x:Name="cm" Content="Mage" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="cr" Content="Rouge" HorizontalAlignment="Left" Margin="64,10,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="cs" Content="Shaman" HorizontalAlignment="Left" Margin="122,10,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="cw" Content="Warrior" HorizontalAlignment="Left" Margin="189,10,0,0" VerticalAlignment="Top"/>
+        <Button Content="stworz postac" HorizontalAlignment="Left" Margin="10,102,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <ListBox x:Name="ll1" d:ItemsSource="{d:SampleData ItemCount=0}" Margin="569,0,0,0"/>
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+C:\Users\kagzb\source\repos\RPG090524\RPG090524\bin\Debug\RPG090524.exe.config
+C:\Users\kagzb\source\repos\RPG090524\RPG090524\bin\Debug\RPG090524.exe
+C:\Users\kagzb\source\repos\RPG090524\RPG090524\bin\Debug\RPG090524.pdb
+C:\Users\kagzb\source\repos\RPG090524\RPG090524\obj\Debug\RPG090524.csproj.AssemblyReference.cache
+C:\Users\kagzb\source\repos\RPG090524\RPG090524\obj\Debug\RPG090524.csproj.CoreCompileInputs.cache
+C:\Users\kagzb\source\repos\RPG090524\RPG090524\obj\Debug\RPG090524.exe
+C:\Users\kagzb\source\repos\RPG090524\RPG090524\obj\Debug\RPG090524.pdb
+C:\Users\112\Downloads\RPG090524Grupa2\RPG090524\bin\Debug\RPG090524.exe.config
+C:\Users\112\Downloads\RPG090524Grupa2\RPG090524\bin\Debug\RPG090524.exe
+C:\Users\112\Downloads\RPG090524Grupa2\RPG090524\bin\Debug\RPG090524.pdb
+C:\Users\112\Downloads\RPG090524Grupa2\RPG090524\obj\Debug\RPG090524.csproj.AssemblyReference.cache
+C:\Users\112\Downloads\RPG090524Grupa2\RPG090524\obj\Debug\RPG090524.csproj.CoreCompileInputs.cache
+C:\Users\112\Downloads\RPG090524Grupa2\RPG090524\obj\Debug\RPG090524.exe
+C:\Users\112\Downloads\RPG090524Grupa2\RPG090524\obj\Debug\RPG090524.pdb
